@@ -1,6 +1,5 @@
 #!/usr/bin/env python
-# author: Yuina
-# -*- coding: utf-8 -*-
+# -*- coding: UTF-8 -*-
 import requests
 import threading
 import argparse
