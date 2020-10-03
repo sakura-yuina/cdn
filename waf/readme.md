@@ -1,1 +1,1 @@
->>[Miku-WAF](https://waf.miku.bar)
+>[Miku-WAF](https://waf.miku.bar)
